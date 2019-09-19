@@ -1,0 +1,20 @@
+{
+        "id":"player",
+        "portraits":{
+                "standard_male":[
+                        "graphics/portraits/portrait_hegemony01.png",
+			"graphics/portraits/portrait_hegemony02.png",
+                        "graphics/portraits/portrait_hegemony03.png",
+                        "graphics/portraits/portrait_independent01.png",
+                        "graphics/portraits/portrait_independent02.png",
+                        "graphics/portraits/portrait_ai1.png",
+                        "graphics/portraits/portrait_ai1b.png",
+			"graphics/portraits/portrait_smuggler1.png",
+			"graphics/portraits/portrait_smuggler2.png",
+                        "graphics/portraits/portrait_salvage01.png",
+                        "graphics/portraits/portrait_salvage02.png",
+                        "graphics/portraits/portrait_scrapper2.png",
+                        "graphics/portraits/portrait_scrapper1.png",
+                ],
+        }
+}
